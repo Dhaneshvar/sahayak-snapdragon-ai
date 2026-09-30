@@ -1,0 +1,25 @@
+DEMO BANK OF INDIA (FICTIONAL - FOR TESTING ONLY)
+SAVINGS ACCOUNT OPENING FORM - INDIVIDUAL (KYC)
+
+Section A: Personal Details
+1. Full Name (as per ID proof): ______________________
+2. Date of Birth (DD/MM/YYYY): ______________________
+3. Gender: Male / Female / Transgender
+4. Father's / Spouse's Name: ______________________
+5. Mobile Number: ______________________
+
+Section B: Address
+6. Permanent Address: ______________________
+7. Correspondence Address (if different): ______________________
+
+Section C: KYC Documents (self-attested copies)
+8. Proof of Identity: Aadhaar / Passport / Voter ID / Driving Licence
+9. PAN or Form 60 (mandatory if PAN not available)
+10. One recent passport-size photograph
+
+Section D: Nomination
+11. Nominee Name and Relationship: ______________________
+12. Nominee Date of Birth (if nominee is a minor, give guardian details)
+
+Declaration: I confirm the above information is true. Minimum balance of Rs. 1,000 must be maintained.
+Signature / Thumb impression of applicant: __________   Date: ________

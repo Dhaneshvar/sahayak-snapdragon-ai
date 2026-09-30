@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+*.spec
+.env
+benchmarks/results/*.json
+# Never commit real user documents
+private/
